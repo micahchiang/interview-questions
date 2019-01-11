@@ -13,6 +13,7 @@ Questions I've encountered in different software engineering interviews.
 3. What is more specific, id or class?
 4. How would you select the first row of a table using css?
 5. Give nested `<ul>` and `<ol>` tags. Find the maximum depth of either tag in any given dom tree.
+6. What are some of the key differences between state management in Angular and Vue?
 
 ### Non-coding related questions I found interesting
 1. What is something you can explain to us in great depth and detail, that we probably don't know anything, or very little, about?
