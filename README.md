@@ -18,6 +18,7 @@ Questions I've encountered in different software engineering interviews.
 8. What is the difference between a constructor and ngOnInit in Angular?
 9. In an Angular application where would you put your business logic?
 10. How would you architect a system that involved peer-to-peer rentals and payments?
+11. What are two of the owasp top ten security risks?
 
 ### Non-coding related questions I found interesting
 1. What is something you can explain to us in great depth and detail, that we probably don't know anything, or very little, about?
