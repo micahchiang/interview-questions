@@ -14,6 +14,10 @@ Questions I've encountered in different software engineering interviews.
 4. How would you select the first row of a table using css?
 5. Give nested `<ul>` and `<ol>` tags. Find the maximum depth of either tag in any given dom tree.
 6. What are some of the key differences between state management in Angular and Vue?
+7. What is an Observable in Angular?
+8. What is the difference between a constructor and ngOnInit in Angular?
+9. In an Angular application where would you put your business logic?
+10. How would you architect a system that involved peer-to-peer rentals and payments?
 
 ### Non-coding related questions I found interesting
 1. What is something you can explain to us in great depth and detail, that we probably don't know anything, or very little, about?
