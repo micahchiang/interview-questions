@@ -30,3 +30,6 @@ Questions I've encountered in different software engineering interviews.
 
 ### Non-coding related questions I found interesting
 1. What is something you can explain to us in great depth and detail, that we probably don't know anything, or very little, about?
+2. What is your greatest skill and why?
+3. What is your mission?
+4. What are some of your passions within tech?
